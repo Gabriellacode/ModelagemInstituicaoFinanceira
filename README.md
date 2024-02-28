@@ -1,7 +1,7 @@
 # **Modelagem Relacional**
 
 Projeto avaliativo desenvolvido no âmbito da disciplina de banco de dados, no Instituto Federal de Educação, Ciência e Tecnologia (IFS). 
-O objetivo principal era criar a modelagem física para uma instituição financeira. A instituição era um banco que oferecia apenas conta corrente.
+O objetivo principal era criar a modelagem física para uma instituição financeira. A instituição era um banco digital que oferecia apenas conta corrente.
 
 ## **Funcionalidade da conta**
 - O cliente pode possuir cartão de crédito;
@@ -9,7 +9,8 @@ O objetivo principal era criar a modelagem física para uma instituição financ
 - Transferência;
 - Saque;
 - Depósito;
-Além disso, poderia ter uma chave PIX e realizar ou receber PIX.
+- O cliente pode convidar outros clientes para abrir uma conta;
+- O cliente pode ter chave PIX e realizar ou receber PIX;
 
 ## **Ferramenta utilizada**
 Para construção do modelo físico foi utilizado a ferramenta vertabelo (online).
